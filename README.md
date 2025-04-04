@@ -1,42 +1,37 @@
 # portfolio-de-desenvolvimento
 
-## Descrição
+## Objetivo
 
-Esse repositório contém meu portfólio de projetos desenvolvidos. O objetivo é mostrar as habilidades que estou adquirindo e ajudar a impressionar futuros recrutadores.
+Este repositório é uma forma de mostrar o meu portfólio de projetos práticos, explorando as ferramentas que aprendi durante o curso, com foco em configurações de pesquisa e ferramentas de análise de dados.
 
-## Como Rodar
+## Como Configurar uma Pesquisa
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/GustavoHenrique Souza/portfolio-de-desenvolvimento.git
-    ```
+1. **Passo 1: Explorar a Ferramenta**  
+   Usei o **Azure AI Search** para configurar índices de pesquisa e explorar os resultados com filtros avançados.
 
-2. Acesse a pasta do projeto:
-    ```bash
-    cd portfolio-de-desenvolvimento
-    ```
+2. **Passo 2: Configurar o Índice de Pesquisa**  
+   - Criar um índice que permite a busca eficiente.
+   - Utilizar filtros e facetas para melhorar a experiência do usuário.
 
-3. Instale as dependências (se necessário):
-    ```bash
-    npm install
-    ```
+3. **Passo 3: Integrar com Outras Ferramentas**  
+   - A pesquisa pode ser integrada com outras ferramentas de IA ou dashboards para criar visualizações interativas.
+   
+## Ferramentas que se Beneficiam Com Esse Tipo de Pesquisa
 
-4. Execute o projeto:
-    ```bash
-    npm start
-    ```
+- **Azure AI Search**: Para otimizar e personalizar buscas de dados.
+- **Power BI**: Para integrar a pesquisa e criar dashboards interativos.
+- **Elasticsearch**: Outra ferramenta poderosa para índices de pesquisa rápidos e escaláveis.
+- **Node.js**: Para integração com back-end e APIs de pesquisa.
 
-## Ferramentas Utilizadas
+## Insights e Aprendizados
 
-- GitHub
-- Node.js 
-
-## Aprendizados
-
-- Aprendi como configurar um repositório no GitHub e documentar o processo.
-- Entendi melhor sobre como criar e organizar projetos para apresentar a futuros empregadores.
-
+- **Pesquisa Eficiente**: Aprendi como configurar uma pesquisa eficiente e escalável usando o **Azure AI Search**.
+- **Ferramentas de Integração**: A importância de integrar essas ferramentas com APIs para melhorar a usabilidade.
+- **Organização de Dados**: Compreendi como organizar e indexar dados para otimizar o processo de busca.
+  
 ---
+
+
 
 ## Contato
 
